@@ -16,8 +16,8 @@ Todoey is a simple Todo app built with Flutter. It allows you to manage your tas
 
 Include some screenshots of your app here to provide visual examples of its interface and functionality. You can use the following format:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Todo1](https://github.com/sachinNishalka/todo_app/assets/72740598/35d414df-2d27-449e-933d-bbd556695482)
+
 ...
 
 ## Getting Started
